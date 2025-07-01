@@ -21,4 +21,5 @@
 💳 Payments: Stripe API
 💬 Notifications: Twilio (SMS/WhatsApp)
 🔧 Tools: VS Code, Postman, Git & GitHub
-
+🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/mohammad-aman-memon/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /> </a> &nbsp; <a href="mailto:memonaman855@gmail.com" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /> </a> </p> 
