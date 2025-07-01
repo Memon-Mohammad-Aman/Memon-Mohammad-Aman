@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Aman Memon</h1>
+<h3 align="center">Full Stack Developer | MERN Expert | Passionate Learner</h3>
 
-<!--
-**Memon-Mohammad-Aman/Memon-Mohammad-Aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **MERN Stack School Management System**
+- 🌱 I’m currently learning **DevOps, Next.js, and Machine Learning**
+- 💬 Ask me about **React, Node.js, MongoDB, REST APIs, or anything tech!**
+- 📫 How to reach me: **memonaman855@gmail.com**
+- ⚡ Fun fact: *I love turning ideas into reality using code 🚀*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages: JavaScript, Java, Python
+🧰 Frontend: React.js, Redux, HTML5, Tailwind CSS
+🧪 Backend: Node.js, Express.js, JWT, REST APIs
+🗄️ Database: MongoDB, Firebase
+💳 Payments: Stripe API
+💬 Notifications: Twilio (SMS/WhatsApp)
+🔧 Tools: VS Code, Postman, Git & GitHub
