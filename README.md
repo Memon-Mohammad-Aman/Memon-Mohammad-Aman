@@ -14,11 +14,11 @@
 </div>
 
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<div align="center"><p align="left">🔭 I’m currently working on School Managment<br><br>🌱 I’m currently Solving Leet Code Problems<br><br>💬 Ask me about Mern<br><br>📫 How to reach me amanmemon0014@gmail.com</p></div>
+<p align="center">🔭 I’m currently working on School Managment<br><br>🌱 I’m currently Solving Leet Code Problems<br><br>💬 Ask me about Mern<br><br>📫 How to reach me amanmemon0014@gmail.com</p>
 
 ###
 
