@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Aman Memon</h1>
 <h3 align="center">Aspiring full Stack developer from Ahmedabad India</h3>
-<h2 align="center">Profile Views</h2><div align="center"> 
+<div align="center"> 
+  <h2 align="center">Profile Views</h2>
   <img src="https://profile-counter.glitch.me/Memon-Mohammad-Aman/count.svg?"  />
 </div>
 
