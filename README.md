@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Mohammad Aman Memon</h1>
 <h3 align="center">Aspiring full Stack developer from Ahmedabad India</h3>
 ###
