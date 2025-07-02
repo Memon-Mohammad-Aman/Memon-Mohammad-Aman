@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on School Managment<br><br>🌱 I’m currently Solving Leet Code Problems<br><br>💬 Ask me about Mern<br><br>📫 How to reach me amanmemon0014@gmail.com</p>
+<div align="center"><p align="left">🔭 I’m currently working on School Managment<br><br>🌱 I’m currently Solving Leet Code Problems<br><br>💬 Ask me about Mern<br><br>📫 How to reach me amanmemon0014@gmail.com</p></div>
 
 ###
 
