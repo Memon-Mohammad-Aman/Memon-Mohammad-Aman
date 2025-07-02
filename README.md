@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Aman Memon</h1>
-<h3 align="center">Aspiring full Stack developer from India</h3>
+<h3 align="center">Aspiring full Stack developer from Ahmedabad India</h3>
 ###
 
 <h2 align="left">About me</h2>
