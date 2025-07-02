@@ -47,7 +47,7 @@
 ###
 ### 🐍 Snake Game Contribution Graph
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Memon-Mohammad-Aman/Memon-Mohammad-Aman/blob/output/github-snake-dark.svg)
 
 
 ###
