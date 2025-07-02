@@ -4,7 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Aman Memon</h1>
 <h3 align="center">Aspiring full Stack developer from Ahmedabad India</h3>
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaf.maurodesouzaf&"  />
+</div>
+
 
 <h2 align="left">About me</h2>
 
