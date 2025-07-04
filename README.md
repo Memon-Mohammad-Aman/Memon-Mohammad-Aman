@@ -20,10 +20,23 @@
 - 🎯 Passionate about learning new tech, building real-world projects, and contributing to open source
 
 ---
+## 📫 Connect With Me
+
+<div align="left">
+  <a href="mailto:amanmemon0014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/memon-mohammad-aman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Memon-Mohammad-Aman/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</div>
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
@@ -40,16 +53,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Memon-Mohammad-Aman&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memon-Mohammad-Aman&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Memon-Mohammad-Aman&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memon-Mohammad-Aman&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
 
-## 🧠 LeetCode Stats
+## 🔥 LeetCode Stats
 
 <div align="center">
   <a href="https://leetcode.com/lbiXlwT47l">
@@ -61,27 +74,13 @@
 
 ## 🐍 Snake Game Contribution Graph
 
-<div align="center">
-  <img src="https://github.com/Memon-Mohammad-Aman/Memon-Mohammad-Aman/blob/output/github-snake-dark.svg" alt="snake contribution graph" />
-</div>
+![snake gif](https://github.com/Memon-Mohammad-Aman/Memon-Mohammad-Aman/blob/output/github-snake-dark.svg)
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:amanmemon0014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/memon-mohammad-aman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/lbiXlwT47l" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</div>
 
 ---
 
 > ⚡ *"Consistency always beats intensity. Build daily, learn daily."*  
 > – Mohammad Aman Memon
+
