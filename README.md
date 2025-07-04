@@ -8,6 +8,12 @@
   <h2 align="center">Profile Views</h2>
   <img src="https://profile-counter.glitch.me/Memon-Mohammad-Aman/count.svg?"  />
 </div>
+<h2 align="center">About me</h2>
+
+###
+
+<p align="center">🔭 I’m currently working on School Managment<br><br>🌱 I’m currently Solving Leet Code Problems<br><br>💬 Ask me about Mern<br><br>📫 How to reach me amanmemon0014@gmail.com</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Memon-Mohammad-Aman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -15,11 +21,6 @@
 </div>
 
 
-<h2 align="center">About me</h2>
-
-###
-
-<p align="center">🔭 I’m currently working on School Managment<br><br>🌱 I’m currently Solving Leet Code Problems<br><br>💬 Ask me about Mern<br><br>📫 How to reach me amanmemon0014@gmail.com</p>
 
 ###
 
