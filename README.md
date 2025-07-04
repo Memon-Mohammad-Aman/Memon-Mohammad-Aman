@@ -20,8 +20,22 @@
 - 🎯 Passionate about learning new tech, building real-world projects, and contributing to open source
 
 ---
+---
 
-## 🚀 Tech Stack
+## 📫 Connect With Me
+
+<div align="left">
+  <a href="mailto:amanmemon0014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/memon-mohammad-aman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Memon-Mohammad-Aman/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</div>
+
 ## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -36,9 +50,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-
-
----
 
 ## 📊 GitHub Stats
 
@@ -59,23 +70,7 @@
 
 ![snake gif](https://github.com/Memon-Mohammad-Aman/Memon-Mohammad-Aman/blob/output/github-snake-dark.svg)
 
----
 
-## 📫 Connect With Me
-
-<div align="left">
-  <a href="mailto:amanmemon0014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/memon-mohammad-aman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Memon-Mohammad-Aman/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</div>
-
----
 
 > ⚡ *"Consistency always beats intensity. Build daily, learn daily."*  
 > – Mohammad Aman Memon
