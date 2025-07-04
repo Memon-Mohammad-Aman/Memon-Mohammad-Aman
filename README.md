@@ -59,8 +59,12 @@
 ---
 
 ## 🔥 LeetCode Stats
+<div align="center">
+  <a href="https://leetcode.com/lbiXlwT47l">
+    <img src="https://leetcard.jacoblin.cool/lbiXlwT47l?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
+  </a>
+</div>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Memon-Mohammad-Aman?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/Memon-Mohammad-Aman)
 
 ---
 
