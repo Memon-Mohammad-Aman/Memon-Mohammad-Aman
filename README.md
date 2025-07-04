@@ -51,7 +51,7 @@
 
 ## 🔥 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Memon-Mohammad-Aman?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/Memon-Mohammad-Aman)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/lbiXlwT47l?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/lbiXlwT47l)
 
 ---
 
