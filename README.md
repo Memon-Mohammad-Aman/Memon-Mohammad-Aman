@@ -20,6 +20,20 @@
 - 🎯 Passionate about learning new tech, building real-world projects, and contributing to open source
 
 ---
+## 📫 Connect With Me
+
+<div align="left">
+  <a href="mailto:amanmemon0014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-aman-memon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/lbiXlwT47l/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</div>
+
 
 ## 🚀 Tech Stack
 
@@ -66,19 +80,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-<div align="left">
-  <a href="mailto:amanmemon0014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-aman-memon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/lbiXlwT47l/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</div>
 
 ---
 
