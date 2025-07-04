@@ -21,6 +21,46 @@
 
 ---
 
+## 🚀 Tech Stack
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-green?style=flat-square&logo=android-studio)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Memon-Mohammad-Aman&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memon-Mohammad-Aman&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+---
+
+## 🔥 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Memon-Mohammad-Aman?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/Memon-Mohammad-Aman)
+
+---
+
+## 🐍 Snake Game Contribution Graph
+
+![snake gif](https://github.com/Memon-Mohammad-Aman/Memon-Mohammad-Aman/blob/output/github-snake-dark.svg)
+
+---
+
 ## 📫 Connect With Me
 
 <div align="left">
@@ -37,51 +77,6 @@
 
 ---
 
-## 🚀 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Memon-Mohammad-Aman&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memon-Mohammad-Aman&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
----
-
-## 🔥 LeetCode Stats
-
-<div align="center">
-  <a href="https://leetcode.com/lbiXlwT47l">
-    <img src="https://leetcard.jacoblin.cool/lbiXlwT47l?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
-  </a>
-</div>
-
----
-
-## 🐍 Snake Game Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/Memon-Mohammad-Aman/Memon-Mohammad-Aman/blob/output/github-snake-dark.svg" alt="snake contribution graph" />
-</div>
-
----
-
 > ⚡ *"Consistency always beats intensity. Build daily, learn daily."*  
 > – Mohammad Aman Memon
+
