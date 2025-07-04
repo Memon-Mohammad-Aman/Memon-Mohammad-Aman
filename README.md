@@ -51,9 +51,9 @@
 
 ## 🔥 LeetCode Stats
 
-<div align="center">
+
   [![LeetCode Stats](https://leetcard.jacoblin.cool/lbiXlwT47l?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/lbiXlwT47l)
-</div>
+
 
 ---
 
