@@ -51,8 +51,11 @@
 
 ## 🔥 LeetCode Stats
 
-
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/lbiXlwT47l?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/lbiXlwT47l)
+<div align="center">
+  <a href="https://leetcode.com/lbiXlwT47l">
+    <img src="https://leetcard.jacoblin.cool/lbiXlwT47l?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
+  </a>
+</div>
 
 
 ---
