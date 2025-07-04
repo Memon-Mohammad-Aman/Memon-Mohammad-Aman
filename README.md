@@ -10,16 +10,6 @@
 </div>
 
 ---
-
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on a **School Management System** using the **MERN Stack**  
-- 🌱 I’m actively solving **LeetCode challenges** (Daily Streak 💯)  
-- 💬 Ask me about **MERN, Java, Android Development, or REST APIs**  
-- 📫 Reach me at: **amanmemon0014@gmail.com**  
-- 🎯 Passionate about learning new tech, building real-world projects, and contributing to open source
-
----
 ## 📫 Connect With Me
 
 <div align="left">
@@ -33,6 +23,17 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </div>
+
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working on a **School Management System** using the **MERN Stack**  
+- 🌱 I’m actively solving **LeetCode challenges** (Daily Streak 💯)  
+- 💬 Ask me about **MERN, Java, Android Development, or REST APIs**  
+- 📫 Reach me at: **amanmemon0014@gmail.com**  
+- 🎯 Passionate about learning new tech, building real-world projects, and contributing to open source
+
+---
+
 
 ## 🚀 Tech Stack
 
