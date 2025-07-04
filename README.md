@@ -10,6 +10,19 @@
 </div>
 
 ---
+## 📫 Connect With Me
+
+<div align="left">
+  <a href="mailto:amanmemon0014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/memon-mohammad-aman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Memon-Mohammad-Aman/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -61,19 +74,7 @@
 
 ---
 
-## 📫 Connect With Me
 
-<div align="left">
-  <a href="mailto:amanmemon0014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/memon-mohammad-aman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Memon-Mohammad-Aman/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</div>
 
 ---
 
