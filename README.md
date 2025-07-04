@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohammad Aman Memon</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & Java | Ui/Ux Enthusiast | LeetCode Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN & Java | Android Enthusiast | LeetCode Explorer</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Memon-Mohammad-Aman/count.svg?" />
@@ -20,20 +20,6 @@
 - 🎯 Passionate about learning new tech, building real-world projects, and contributing to open source
 
 ---
-## 📫 Connect With Me
-
-<div align="left">
-  <a href="mailto:amanmemon0014@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-aman-memon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/lbiXlwT47l/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-</div>
-
 
 ## 🚀 Tech Stack
 
@@ -65,12 +51,7 @@
 
 ## 🔥 LeetCode Stats
 
-<div align="center">
-  <a href="https://leetcode.com/lbiXlwT47l">
-    <img src="https://leetcard.jacoblin.cool/lbiXlwT47l?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
-  </a>
-</div>
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Memon-Mohammad-Aman?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/Memon-Mohammad-Aman)
 
 ---
 
@@ -80,6 +61,19 @@
 
 ---
 
+## 📫 Connect With Me
+
+<div align="left">
+  <a href="mailto:amanmemon0014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/memon-mohammad-aman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Memon-Mohammad-Aman/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</div>
 
 ---
 
