@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohammad Aman Memon</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & Java | Android Enthusiast | LeetCode Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN & Java | AI/ML Enthusiast | LeetCode Explorer</h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Memon-Mohammad-Aman/count.svg?" />
