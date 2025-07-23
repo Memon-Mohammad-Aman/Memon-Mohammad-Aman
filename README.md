@@ -21,9 +21,10 @@
 ## 📫 Connect With Me
 
 <div align="left">
-  <a href="https://mohammad-aman-memon-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Vercel-D14836?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<a href="https://mohammad-aman-memon-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" />
+</a>
+
   <a href="https://www.linkedin.com/in/mohammad-aman-memon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
